@@ -1,1 +1,18 @@
-sdfsdf
+(define (f->c x)
+  (* (- x 32) (/ 5 9)))
+  
+9**(define (even x)
+  (= (remainder x 2) 0))
+  
+; sumof2larger: Number Number Number -> Number
+; GTVEN: three numbers
+; RETURENS: the sum of the two larger numbers
+; Example:
+; (sumof2larger 7 9 3) => 16
+; (sumof2larger 14 2 5) => 19
+
+(define (sumof2larger x y z)
+  (cond
+    [(and (< x y) (< x z)) (+ y z)]
+	[(and (< y x) (< y z)) (+ x z)]
+	[(and (< z x) (< z y)) (+ x y)]))
