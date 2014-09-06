@@ -1,0 +1,6 @@
+Date   Who	 Start	Stop   Interruptions	Question	                  TimeOnTask	Comments
+9/1    Me    10:15  11:00                   Sign up for a CCIS account    45            Choose a name wisely
+9/3    Me    21:22  21:49                   Sign up for CS5010 on piazza  27            Online discussion
+8/29   Me    8:50   9:32                    Download and Install Racket   42            can start trying
+8/27   Me    9:45   10:21                   Sign up for Github            36            Great place for coder
+9/4    Me    14:14  15:38                   10 Exercises                  1:24          Intro to Racket
